@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "urunAdi": "Loreal-elseve",
+      "urunResmi": "https://www.dermoeczanem.com/loreal-paris-elseve-hydra-hyaluronic-nem-dolduran-sampuan-390-ml-elseve-168454-75-B.jpg",
+      "urunKategori": "Kişisel Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Elidor",
+      "urunResmi": "https://cdn03.ciceksepeti.com/cicek/kcm34358272-1/L/elidor-sampuan-guclu-ve-parlak-650-ml-kcm34358272-1-f04a6f7fc4f84aac92f8a586e76ab995.jpg",
+      "urunKategori": "Kişisel Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Bioblas",
+      "urunResmi": "https://www.dermokozmetika.com.tr/bioblas-sac-dokulmesine-karsi-bitkisel-sampuan-1000ml-53903-34-B.jpg",
+      "urunKategori": "Kişisel Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Clear",
+      "urunResmi": "https://img.gratis.com/mnpadding/800/800/ffffff/productimages/10335309/10335309_01/8811908038706_1713426886520.jpg?v=4192806563553957",
+      "urunKategori": "Kişisel Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "A",
+      "urunResmi": "https://www.yumos.com/images/h0nadbhvm6m4/6oY27RGrKR5zeq7ZjGOfG6/19f97036dd2394df0c0db89803064aad/cGluay5wbmc/1080w-1080h/yumo%C5%9F-deterjan-renkli-giysiler-paket-at%C4%B1%C5%9F.jpg",
+      "urunKategori": "Ev Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "B",
+      "urunResmi": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/48857/uploads/urunresimleri/buyuk/1056135-222d-7.jpg",
+      "urunKategori": "Ev Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "C",
+      "urunResmi": "https://images.migrosone.com/mion/product/30530030/30530030-15fa53-1650x1650.jpg",
+      "urunKategori": "Ev Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Domates",
+      "urunResmi": "https://www.aftamarket.com.tr/sebze-38-sebzeler-manav-23805-26-B.jpg",
+      "urunKategori": "Meyve-sebze"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Şeftali",
+      "urunResmi": "https://cdn.cimri.io/market/260x260/seftali-_225074.jpg",
+      "urunKategori": "Meyve-sebze"
+    },
+    {
+      "id": "0",
+      "urunAdi": "diş macunu",
+      "urunResmi": "https://m.media-amazon.com/images/I/51XtfpogzFL._AC_UF1000,1000_QL80_.jpg",
+      "urunKategori": "Kişisel Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "dadffa",
+      "urunResmi": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8SEhUSExAVFhMXFxEXFhcVEhEWEA8YFhoYFxgWFRUYHiggGBolHRcVITEhJSotLi4uFyAzODMsNygtLjcBCgoKDg0OGxAQGy4lICItMC0tLSsuLTctLS0rLS0rLS8tKy0uLTAvLS0vLS4tLS0tKy0tLSstLS0vLS0tKzU1Lv/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAABAUGAwIBB//EAEgQAAIBAgMDBwYKBwcFAAAAAAECAAMRBBIhBTFBBhMiUWFxkTJSgbHB0RQjM0Jic5KTobIVFiSis9LwNENUY3LC4URTZIKj/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAKhEBAAIBAwMCBQUBAAAAAAAAAAECEQMSIQQxMkFRFJGh0fATYXHB4SL/2gAMAwEAAhEDEQA/AP3GIiAiIgIiICIiAifGOkgVsa4WmQB0wD3XF4FhEpq+0HG9wPAeuUu0eUQUH9qQH6ymDA2cT8bx3KmsSbY1rfRqn2GQG5TYj/G1vvqnvk4kfucT8K/WXE/42t9/V986JyoxI/62p6azH1mMSP3GJ+MUeWGNG7Fk9/Nt6xNHyf5V4yo6q9RWB+goP4WkD9EicqlQqAd+qj7RA9s6wEREBERAREQEREBERAREQEREBERAREQPj7jMJicC1Xm71qlhTpdHNdQSu+xm7bdMhhN6/V0vyr/XonR08cyvRAPJ3qqj00x75Xba2M9OnmzqRcDRbHjNck84unTZCKgUrvObydJ1b5yvFpfl60ARu6/XJNLD6aASbtp6Ge1EgrxCiyg9539ek4Ur28n94zt0YhpKHicOONpFq0QBe3GWOIB6vxk7YLYUkisV4ZQ407w27sldaIQ+YHk9UqU1bnEAIuOiSfZJVHkxY3NbwpgfiTNHTRVUBAAoFhbcB2T4Jgz3S44Ok9N6YFaoR",
+      "urunKategori": "içecek"
+    },
+    {
+      "id": "0",
+      "urunAdi": "ahmet",
+      "urunResmi": "",
+      "urunKategori": "A"
+    }
+  ],
+  "baskets": [
+    {
+      "id": "0",
+      "urunAdi": "Şeftali",
+      "urunResmi": "https://cdn.cimri.io/market/260x260/seftali-_225074.jpg",
+      "urunKategori": "Meyve-sebze"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Şeftali",
+      "urunResmi": "https://cdn.cimri.io/market/260x260/seftali-_225074.jpg",
+      "urunKategori": "Meyve-sebze"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Loreal-elseve",
+      "urunResmi": "https://www.dermoeczanem.com/loreal-paris-elseve-hydra-hyaluronic-nem-dolduran-sampuan-390-ml-elseve-168454-75-B.jpg",
+      "urunKategori": "Kişisel Bakım"
+    },
+    {
+      "id": "0",
+      "urunAdi": "Elidor",
+      "urunResmi": "https://cdn03.ciceksepeti.com/cicek/kcm34358272-1/L/elidor-sampuan-guclu-ve-parlak-650-ml-kcm34358272-1-f04a6f7fc4f84aac92f8a586e76ab995.jpg",
+      "urunKategori": "Kişisel Bakım"
+    }
+  ]
+}
