@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+#### To view the data stored in db.json, you need to open the server folder in an integrated terminal, then run the command json-server --watch db.json in the terminal to see that the server is listening on any port. After that, without closing db.json, open a separate terminal (under the e-ticaret folder) and run the ng serve command to view your e-commerce site with the data you saved.
